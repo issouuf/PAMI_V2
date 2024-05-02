@@ -1,0 +1,5 @@
+{
+    "configuration": "EraseFlash=Disable,AutoUploadMode=Disable,StdLibInit=Enable,UploadBaudrate=1500000",
+    "board": "realtek:AmebaD:Ai-Thinker_BW16",
+    "sketch": "PAMI_V2.ino"
+}
